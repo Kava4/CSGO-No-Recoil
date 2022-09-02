@@ -43,7 +43,7 @@
 
 
 **2: Find CSGO and go the bottom left and click on "Scripting"**
-![screenshot](https://raw.githubusercontent.com/Kava4/CSGO-No-Recoil/master/Screenshots/2.png)
+![screenshot](https://raw.githubusercontent.com/Kava4/CSGO-No-Recoil/master/Screenshots/2a.png)
 
 
 **3: Create a new Lua Script and press "EDIT SCRIPT"**
