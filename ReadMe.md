@@ -37,20 +37,20 @@
 
 
 **1: Open "Profiles" from G-hub**                                                                      
-![screenshot](https://raw.githubusercontent.com/Kava4/Csgo-Logitech-No-Recoil/master/Screenshots/1.jpg)
+![screenshot](https://raw.githubusercontent.com/Kava4/CSGO-Logitech-No-Recoil/master/Screenshots/1.jpg)
 
 
 
 
 **2: Find CSGO and go the bottom left and click on "Scripting"**
-![screenshot](https://raw.githubusercontent.com/Kava4/Csgo-Logitech-No-Recoil/master/Screenshots/2.png)
+![screenshot](https://raw.githubusercontent.com/Kava4/CSGO-Logitech-No-Recoil/master/Screenshots/2.png)
 
 
 **3: Create a new Lua Script and press "EDIT SCRIPT"**
-![screenshot](https://raw.githubusercontent.com/Kava4/Csgo-Logitech-No-Recoil/master/Screenshots/3.png)
+![screenshot](https://raw.githubusercontent.com/Kava4/CSGO-Logitech-No-Recoil/master/Screenshots/3.png)
 
 **4: Import the script by using "Script->Import"**
-![screenshot](https://raw.githubusercontent.com/Kava4/Csgo-Logitech-No-Recoil/master/Screenshots/4.png)
+![screenshot](https://raw.githubusercontent.com/Kava4/CSGO-Logitech-No-Recoil/master/Screenshots/4.png)
 
 **6: After you have done editing the script follow <a href="#important">important</a>
 **
